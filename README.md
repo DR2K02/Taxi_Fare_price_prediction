@@ -1,0 +1,2 @@
+A **Machine Learning Model for Price Prediction of Taxi Fare** is a computational tool that uses historical data to predict future taxi fares. It leverages machine learning algorithms to understand patterns in the data, such as distance traveled, time of day, and traffic conditions. 
+This model aims to provide accurate fare estimates, enhancing transparency and trust between taxi services and passengers.
